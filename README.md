@@ -32,8 +32,8 @@
 
 <p align="center">
 <a href="https://github.com/movwf">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=movwf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=movwf&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=movwf&theme=algolia&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=movwf&langs_count=8&layout=compact&theme=algolia"/>
 </a>
 </p>
 
